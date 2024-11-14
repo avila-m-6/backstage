@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: searcher
-  description: Searcher
+  name: component-debug
+  description: debug comp for https://github.com/backstage/backstage/issues/26908
   tags:
     - go
 spec:
